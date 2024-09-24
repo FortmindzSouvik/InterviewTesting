@@ -1,0 +1,8 @@
+{
+  "SUCCESS":"Success!",
+  "FAIL":"Fail!",
+  "SIGNUP_SUCCESS":"You Have Successfully Registered!",
+  "LOGIN_SUCCESS":"You Have Successfully LoggedIn!",
+  "LOGOUT_SUCCESS":"You Have Successfully Logout!",
+  "EMAIL_VERIFY_SUCCESS":"Email Verified Successfully!"
+}

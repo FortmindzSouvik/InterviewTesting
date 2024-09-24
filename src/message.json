@@ -1,0 +1,36 @@
+{
+  "friendRequest": {
+    "send": "$1 send you $2 joining request",
+    "accept": "$1 accepted your $2 request",
+    "reject": "$1 rejected your $2 request"
+  },
+  "subscription": {
+    "groupSubscribe": "$1 subscribed your $2",
+    "groupUnSubscribe": "$1 un-subscribed your $2",
+    "userSubscribe": "$1 subscribed you",
+    "userUnSubscribe": "$1 un-subscribed you"
+  },
+  "post": {
+    "comment": "$1 commented on your $2 post",
+    "like": "$1 liked your $2 post"
+  },
+  "question": {
+    "comment": "$1 commented on your $2 question",
+    "like": "$1 liked your $2 question"
+  },
+  "Event": {
+    "nearBy": "$1 event near you !! hurry up grab the show",
+    "confirmed": "Your $1 event accepted",
+    "cancelled": "Your $1 event rejected"
+  },
+  "Booking": {
+    "confirmed": "Your $1 Booking confirmed",
+    "cancelled": "Your $1 Booking cancelled"
+  },
+  "invite": {
+    "group": "$1 invited you to join their group $2"
+  },
+  "chat": {
+    "send": "$1 send you a message"
+  }
+}
